@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOConcepts", "POOConcepts\POOConcepts.csproj", "{06967408-E33F-409F-890A-252EBAB76963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06967408-E33F-409F-890A-252EBAB76963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06967408-E33F-409F-890A-252EBAB76963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06967408-E33F-409F-890A-252EBAB76963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06967408-E33F-409F-890A-252EBAB76963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90BA4AE5-1EFB-41AE-8F1D-08CC9E93EF6C}
+	EndGlobalSection
+EndGlobal
